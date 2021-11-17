@@ -1,5 +1,7 @@
 ![helloworld](https://user-images.githubusercontent.com/83794510/142270124-901b704b-94a6-40a9-b80b-def9827d11fa.png)
 
+## 🚀 About Me
+
 Hola! Mi nombre es Nasser El Bacha y soy Full Stack Developer con un gran conocimiento en JavaScript | NodeJS | Express | PostgreSQL | Sequelize | React | Redux | HTML | CSS. Me encuentro en busca de formar parte de algún proyecto o equipo el cual me permita crecer mis conocimientos profesionales.
 
 
